@@ -76,10 +76,18 @@ begin
 endmodule
 ```
 **RTL LOGIC FOR FLIPFLOPS**
+
+
+
 ![image](https://github.com/naavaneetha/JKFLIPFLOP-USING-IF-ELSE/assets/144979490/231862e5-87e6-43e8-93f4-0e829f642467)
 
 **TIMING DIGRAMS FOR FLIP FLOPS**
+
+
+
 ![image](https://github.com/naavaneetha/JKFLIPFLOP-USING-IF-ELSE/assets/144979490/a44a7db6-125c-4d3e-a208-6294f30766fd)
+
+
 
 **RESULTS**
 
